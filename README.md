@@ -1,5 +1,4 @@
 ### 🐣pyh-dotcom🐣
-🌱 I'm currently learning Machine learning.
 
 ![pyh-dotcom's github stats](https://github-readme-stats.vercel.app/api?username=pyh-dotcom&show_icons=true&count_private=false)
 [![pyh-dotcom's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pyh-dotcom&show_icons=true&hide_border=false&title_color=004386&icon_color=004386&layout=compact)](https://github.com/pyh-dotcom)
