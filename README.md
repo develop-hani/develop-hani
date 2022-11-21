@@ -1,31 +1,18 @@
-### 👋 Hi there!
-I'm a senior in computer engineering at university.
-
-</br>
-
-🌱 I’m currently learning: 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-</br>
-
-💼 I can use ...
-
-- Programming Languages: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-
-- Version Control: ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-- IDEs: ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## Yehan Park
+👋 Hi there, I’m a senior in computer engineering. </br>
+I’m currently learning **Java** and **Spring Boot**. 🌱
 
 
-<!--
-마크다운 배지: https://github.com/Ileriayo/markdown-badges
+### 💪 Skills
+<img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
 
-![pyh-dotcom's github stats](https://github-readme-stats.vercel.app/api?username=pyh-dotcom&show_icons=true&count_private=false)
-[![pyh-dotcom's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pyh-dotcom&show_icons=true&hide_border=false&title_color=004386&icon_color=004386&layout=compact)](https://github.com/pyh-dotcom)
--->
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/> 
+
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
+
+
+### 📫 Contact me
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:parkyehan2060@gmail.com)](mailto:parkyehan2060@gmail.com) [![Tech Blog Badge](https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@pyh-dotcom)](https://velog.io/@pyh-dotcom)
 
 
 
