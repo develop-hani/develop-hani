@@ -14,7 +14,9 @@ I’m currently learning **Java** and **Spring Boot**. 🌱
 ### 📫 Contact me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:parkyehan2060@gmail.com)](mailto:parkyehan2060@gmail.com) [![Tech Blog Badge](https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@pyh-dotcom)](https://velog.io/@pyh-dotcom)
 
+</br>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpyh-dotcom%2Fhit-counter&count_bg=%232C4379&title_bg=%236192CA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **pyh-dotcom/pyh-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
