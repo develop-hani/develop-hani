@@ -7,9 +7,12 @@
 <br/>
 
 <div align="center">
-<a href="https://github.com/develop-hani" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://pyh-dotcom.notion.site/Park-Yehan-challenging-the-unkowns-f928ed9c8700405888b653015c08d078?pvs=4" target="_blank">
+<img src=https://img.shields.io/badge/C.V.-e9f0f7 alt=resume style="margin-bottom: 5px;" />
 </a>
+</div>  
+
+<div align="center">
 <a href="mailto:parkyehan2060@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white alt=mail style="margin-bottom: 5px;" />
 </a>
@@ -24,20 +27,22 @@
 </a>
 </div>
 <div align="center">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevelop-hani%2Fhit-counter&count_bg=%232C4379&title_bg=%236192CA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" align="center" />
 </div>  
 
 ---
+
+### :fire: Github Stats  
+
+<img src="https://github-readme-stats.vercel.app/api?username=develop-hani&show_icons=true&count_private=true&hide_border=true" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=develop-hani" align="right" />
+
+
+<!--
 ### 👨‍💻 About Me
 I'm Yehan, a backend developer from Korea.
-- 🔭 I’m currently studying at [SSAFY](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp).  
+- 🔭 I’m currently enrolled at [SSAFY](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp).  
 
-
-- 🌱 I’m currently learning Java and Spring Boot.  
-
-
-- 🤔 I’m looking for help with developing web applications.  
-
+- 🌱 I’m currently learning Java and Spring Boot.
 ---
 
 ### :muscle: My Skill Set  
@@ -78,15 +83,6 @@ I'm Yehan, a backend developer from Korea.
 
 </td></tr></table>  
 
----
-
-### :fire: Github Stats  
-
-<img src="https://github-readme-stats.vercel.app/api?username=develop-hani&show_icons=true&count_private=true&hide_border=true" align="left" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=develop-hani" align="right" />
-
-
-<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
