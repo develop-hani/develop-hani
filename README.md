@@ -7,7 +7,10 @@
 <br/>
 
 <div align="center">
-<a href="https://pyh-dotcom.notion.site/Park-Yehan-challenging-the-unkowns-f928ed9c8700405888b653015c08d078?pvs=4" target="_blank">
+<a href="https://pyh-dotcom.notion.site/4f21912ce36c4714b585975d7487fdc3" target="_blank">
+<img src=https://img.shields.io/badge/포트폴리오-e9f0f7 alt=resume style="margin-bottom: 5px;" />
+</a>
+<a href="https://pyh-dotcom.notion.site/Park-Yehan-f928ed9c8700405888b653015c08d078" target="_blank">
 <img src=https://img.shields.io/badge/C.V.-e9f0f7 alt=resume style="margin-bottom: 5px;" />
 </a>
 </div>  
@@ -22,7 +25,7 @@
 <a href="https://instagram.com/ssafycial._.hani" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/yehan-park-2924241b7" target="_blank">
+<a href="https://linkedin.com/in/ye-han-park-2924241b7" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>
