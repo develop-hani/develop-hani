@@ -7,8 +7,8 @@
 <br/>
 
 <div align="center">
-<a href="https://pyh-dotcom.notion.site/4f21912ce36c4714b585975d7487fdc3" target="_blank"><img src=https://img.shields.io/badge/포트폴리오-e9f0f7 alt=resume style="margin-bottom: 5px;"></a>
-<a href="https://pyh-dotcom.notion.site/Park-Yehan-f928ed9c8700405888b653015c08d078" target="_blank"><img src=https://img.shields.io/badge/C.V.-e9f0f7 alt=resume style="margin-bottom: 5px;"></a>
+<a href="https://pyh-dotcom.notion.site/84af9520a83948228897ca291cbf3bd8?pvs=4" target="_blank"><img src=https://img.shields.io/badge/포트폴리오-e9f0f7 alt=resume style="margin-bottom: 5px;"></a>
+<a href="https://drive.google.com/file/d/1isMB7LmIxMyO_xHeOu2W5JmIWQ2WaZvG/view?usp=drive_link" target="_blank"><img src=https://img.shields.io/badge/C.V.-e9f0f7 alt=resume style="margin-bottom: 5px;"></a>
 </div>  
 
 <div align="center">
